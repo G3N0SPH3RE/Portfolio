@@ -1,0 +1,294 @@
+# John Joseph Cline
+
+**Technical Program Manager | Project Engineer**
+Aerospace • Robotics • Advanced Manufacturing • Defense Systems
+
+Malden, MA
+Email: [john.jj.cline@gmail.com](mailto:john.jj.cline@gmail.com)
+LinkedIn: linkedin.com/in/genosphere
+
+---
+
+## Executive Portfolio Overview
+
+I am a Technical Program Manager and Project Engineer with over **10 years of experience in industrial, aerospace, and defense-adjacent environments**, spanning aircraft maintenance, manufacturing engineering, automation, and advanced systems development. My background includes **8 years in engineering-focused roles** and approximately **4 years leading or executing project and program engineering responsibilities**, including ownership of scope, sequencing, risk, and cross-functional delivery.
+
+I specialize in hardware-centric programs where technical ambiguity, schedule pressure, and regulatory constraints intersect. My value lies in translating engineering reality into executable program plans, maintaining momentum during scale-up, and ensuring delivery without sacrificing safety, quality, or long-term reliability.
+
+This portfolio highlights selected, high-impact programs I have led or owned, emphasizing execution in technically demanding, schedule-driven, and regulated environments aligned with organizations such as Rocket Lab, Anduril, and General Dynamics. The focus is on ownership, execution discipline, and engineering-informed decision-making.
+
+---
+
+## Program Leadership Philosophy
+
+* Technical credibility enables better program decisions and faster trust building
+* Clear ownership and documentation reduce execution risk
+* Early risk identification is more valuable than late heroics
+* Strong programs balance speed with long-term reliability
+* Communication cadence matters as much as technical progress
+
+---
+
+## Core Competencies and Operating Strengths
+
+### Program and Project Leadership
+
+* Program planning and execution
+* Schedule ownership and milestone tracking
+* Risk identification and mitigation planning
+* Stakeholder coordination and executive communication
+* Change control and scope management
+
+### Technical Execution
+
+* Systems integration and test
+* Automation and robotics deployment
+* Manufacturing scale-up and process optimization
+* Electrical and mechanical systems
+* Compliance-driven documentation (ITAR, AS9100, ISO 9001, FAA)
+
+---
+
+## Selected Program Case Studies
+
+The following case studies represent programs with meaningful technical complexity, financial exposure, and operational risk. Each highlights my role as a technical owner responsible for execution, coordination, and delivery across engineering, manufacturing, and stakeholder teams.
+
+---
+
+# Case Study 1: Automation and Manufacturing Scale-Up
+
+**Capital-Intensive Aerospace Manufacturing Expansion**
+
+**Organization:** Formlogic  
+**Role:** Manufacturing and Automation Engineer, Technical Program Lead (On-Site)  
+**Program Duration:** August 2021 – October 2022  
+**Environment:** Aerospace and defense manufacturing, ITAR, AS9100, ISO 9001
+
+### Program Overview
+
+Formlogic executed a rapid scale-up of precision CNC manufacturing to meet increasing aerospace and defense customer demand. The program combined capital-intensive CNC expansion, robotic automation, and workforce growth while maintaining continuous production and strict regulatory compliance. I acted as the on-site technical program owner, translating executive objectives into executable engineering and manufacturing plans.
+
+### Objectives and Success Criteria
+
+* Increase production capacity while maintaining quality and delivery commitments
+* Integrate robotic automation into active, high-precision machining environments
+* Maintain ITAR, AS9100, and ISO 9001 compliance during rapid growth
+* Improve throughput, utilization, and material flow stability
+
+### My Role and Responsibilities
+
+* Served as on-site technical program lead for automation and manufacturing expansion
+* Owned technical scope, execution sequencing, and day-to-day decision-making
+* Coordinated electrical, mechanical, controls, CAM, quality, and operations teams
+* Partnered directly with executive leadership, including the CEO, on priorities and trade-offs
+* Supported procurement strategy, facility layout planning, utilities installation, and vendor coordination
+
+### Technical and Program Challenges
+
+* Scaling capacity while machines were actively producing customer hardware
+* Introducing robotics into tight-tolerance aerospace machining workflows
+* Balancing aggressive growth targets with compliance and quality requirements
+* Aligning global engineering input with on-site execution constraints
+
+### Program Execution and Engineering Approach
+
+* Structured the program into phased rollouts to limit operational risk
+* Applied Lean manufacturing methods to identify bottlenecks and sequence improvements
+* Designed and implemented custom automation fixtures and PLC-based control systems
+* Established RCA and CAPA workflows to stabilize processes during scale-up
+* Developed documentation and training materials to support technicians and operators
+
+### Program Budget and Valuation
+
+* Multi-year manufacturing scale-up spanning automation systems, CNC equipment, and customer production throughput
+* **Robotic automation:** five industrial robot controllers at approximately $100,000 each, totaling ~$500,000
+* **CNC equipment footprint (leased assets, indicative replacement value):**
+
+  * 18 Doosan DVF 5000 vertical machining centers
+  * 8 Grob G350 machines
+  * 2 DMG Mori DMX U platforms
+* **Estimated equipment valuation context (industry typical):**
+
+  * Doosan DVF 5000 class VMCs: ~$350,000–$450,000 each
+  * Grob G350 platforms: ~$700,000–$900,000 each
+  * DMG Mori DMX U platforms: ~$600,000–$800,000 each
+* **Approximate total manufacturing equipment exposure:** on the order of $15M–$20M in CNC assets, excluding automation, facilities, and WIP
+* **Engineering and operations staffing:**
+
+  * 3 software and controls developers
+  * 1 primary mechanical engineering contractor
+  * 2 robotics engineers
+  * 2 CAM programmers
+  * 5 manufacturing technicians
+  * 4 upper management staff, with the CEO actively involved on site
+* Overall program value derived from capital equipment exposure, automation investment, and sustained aerospace customer production enabled by scale-up
+
+### Results and Impact
+
+* Increased CNC mill production by approximately 350 percent
+* Improved machine utilization, material flow, and scheduling stability
+* Reduced defects and rework through controlled process stabilization
+* Established a scalable manufacturing and automation foundation for long-term aerospace programs
+
+### Key Takeaways
+
+This program demonstrated the importance of sequencing, risk containment, and technical credibility when leading capital-intensive manufacturing expansions. Acting as the on-site program owner enabled faster decisions, clearer trade-offs, and sustained production during aggressive growth.
+
+---
+
+# Case Study 2: Robotics System Test and Deployment
+
+**Manufacturing Test Systems for High-Throughput Robotics**
+
+**Organization:** Amazon Robotics  
+**Role:** MTAC Project Manager (Project-Based Contract)  
+**Program Duration:** May 2024 – October 2024 (6-month contract)  
+**Environment:** High-throughput robotics manufacturing and deployment
+
+### Program Overview
+
+Amazon Robotics required accelerated development, validation, and deployment of manufacturing test systems supporting two high-priority robotics programs. These systems acted as production gates for hardware and software integration during manufacturing, making reliability, test coverage, and delivery timing critical to downstream operations.
+
+### Objectives and Success Criteria
+
+* Deliver production-ready test systems for two independent robotics programs
+* Validate hardware and software functionality during manufacturing
+* Support on-time deployment under aggressive schedules
+* Ensure repeatable, reliable test coverage at scale
+
+### My Role and Responsibilities
+
+* Owned system test coordination, evaluation, and deployment readiness
+* Led delivery of final production testers used during manufacturing
+* Managed four test and engineering staff members across both programs
+* Served as the primary interface between engineering, manufacturing, and operations
+* Tracked schedules, risks, and readiness for both programs in parallel
+
+### Technical and Program Challenges
+
+* Running two programs concurrently with shared resources
+* Delivering test systems that acted as hard manufacturing gates
+* Coordinating hardware, software, and vision systems under tight timelines
+
+### Program Execution and Engineering Approach
+
+* Defined test coverage requirements aligned with manufacturing needs
+* Prioritized critical-path test functionality to protect delivery dates
+* Maintained close coordination with manufacturing to ensure usability and throughput
+* Used daily execution tracking and rapid issue escalation to reduce risk
+
+### Program Budget and Valuation
+
+* **Program 1 valuation:** approximately $600,000 for vision and scanning test systems supporting conveyor assemblies and package inspection
+* **Program 2 valuation:** approximately $500,000 for vision and scanning test systems supporting inbound and outbound vehicle-based package inspection
+* Combined program value of approximately $1.1M, excluding downstream production impact
+
+### Results and Impact
+
+* Delivered production test systems supporting on-time manufacturing ramp
+* Reduced integration risk by validating hardware and software earlier in the build process
+* Enabled consistent test execution and improved manufacturing confidence
+
+### Key Takeaways
+
+Owning manufacturing test systems reinforced the importance of treating test infrastructure as mission-critical hardware, not support tooling.
+
+---
+
+# Case Study 3: Environmental Instrumentation Product and Client Programs
+
+**Customer-Facing Engineering and Product Programs**
+
+**Organization:** Field Environmental Instruments, Inc.
+**Role:** Department Lead and Engineer
+**Program Duration:** July 2019 – August 2021
+**Environment:** Environmental monitoring, customer-facing, regulatory compliance
+
+### Program Overview
+
+Field Environmental delivered custom environmental monitoring instrumentation for regulatory and field applications. Programs required close coordination between engineering, customers, and regulatory requirements.
+
+### Objectives and Success Criteria
+
+* Deliver reliable, field-ready instrumentation tailored to customer needs
+* Ensure compliance with EPA and state regulatory standards
+* Improve internal efficiency and reduce support costs
+
+### My Role and Responsibilities
+
+* Led engineering efforts for custom hardware and instrumentation solutions
+* Managed customer engagement, requirements gathering, and solution delivery
+* Trained employees and customers on equipment operation and theory
+* Supported sales of tooling, consumables, and services
+
+### Technical and Program Challenges
+
+* Translating varied customer requirements into robust technical solutions
+* Ensuring reliability across diverse field conditions
+* Balancing engineering execution with customer-facing responsibilities
+
+### Program Execution and Engineering Approach
+
+* Designed and refined custom hardware to improve reliability and performance
+* Developed documentation and training materials for internal and external use
+* Standardized installation and support processes to reduce variability
+
+### Program Budget and Valuation
+
+* Oversaw product lines and customer programs spanning pumps, sampling systems, and generators
+* **Individual hardware and tooling costs:** approximately $250 to $6,000 per unit
+* **Typical customer orders:** ranged from ~$500 to $10,000+, depending on scope, duration, and quantity
+* Supported customers ranging from individual contractors to large corporate organizations
+* Managed two direct reports and provided engineering support across twelve branch offices nationwide
+* Program value included hardware sales, engineering customization, data collection services, analytics, and training offerings
+
+### Results and Impact
+
+* Improved product reliability and reduced field failures
+* Increased operational efficiency through standardized documentation
+* Strengthened customer trust and repeat business
+
+### Key Takeaways
+
+This role reinforced the importance of clear communication and expectation management in customer-facing engineering programs.
+
+---
+
+## Engineering Depth Supporting Program Leadership
+
+This section highlights the technical foundation that enables effective program leadership in hardware-centric and defense-adjacent organizations.
+
+* Electrical and mechanical system design for automation and instrumentation
+* PLC-based control systems and robotic integration
+* Test setups, validation workflows, and failure analysis
+* Manufacturing fixtures and process tooling
+
+This technical foundation enables informed program decisions and effective collaboration with engineering teams.
+
+---
+
+## Leadership, Documentation, and Compliance
+
+Experience operating within safety-critical, regulated, and high-consequence environments.
+
+* Authored and maintained SOPs, test plans, and work instructions
+* Led training for technicians, engineers, and customers
+* Supported RCA, CAPA, and continuous improvement initiatives
+* Operated in ITAR, AS9100, ISO 9001, FAA, and DoD-regulated environments
+
+---
+
+## Credentials and Professional Standing
+
+* Bachelor of Science in Electrical Engineering
+* FAA A&P License
+* PMP Certification
+* Six Sigma Black Belt
+
+---
+
+## Closing Statement
+
+This portfolio is intended to supplement my resume by providing concrete examples of program ownership, technical leadership, and execution under real-world constraints.
+
+I am seeking Technical Program Manager or Project Engineer leadership roles where technical depth, ownership, and execution discipline are critical to delivering complex systems at scale.
